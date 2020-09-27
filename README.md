@@ -2,9 +2,8 @@
 Simple PHP API to Retrieve Posts
 This is a simple experimental api I developed to get a better understanding in developing api's using PHP.
 
----
-Note: The api has a dbseed.php file that can be ran to create the table and add temporary records for testing.
----
+**_NOTE:_** The api has a dbseed.php file that can be ran to create the table and add temporary records for testing.
+
 
 ## Running the api locally
 You can run the api using MAMP or any other local server
